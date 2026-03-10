@@ -1,5 +1,4 @@
 # 🌐 LinguaFlow — AI Language Translation Tool
-### CodeAlpha Internship | Artificial Intelligence | Task 1
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://codealphalanguagetranslator-4izttzry2fnid6yyvfd6bq.streamlit.app/)
 
@@ -96,7 +95,7 @@ English, Hindi, Tamil, Telugu, Kannada, Malayalam, Bengali, Marathi, Gujarati, P
 
 **CodeAlpha AI Internship**
 - 🔗 Live App: https://codealphalanguagetranslator-4izttzry2fnid6yyvfd6bq.streamlit.app/
-- 💻 GitHub: [CodeAlpha_LanguageTranslationTool](https://github.com/YOUR_USERNAME/CodeAlpha_LanguageTranslationTool)
+- 💻 GitHub: [CodeAlpha_LanguageTranslationTool](https://github.com/YOUR_USERNAME/CodeAlpha_LanguageTranslation)
 
 ---
 
