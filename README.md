@@ -95,7 +95,7 @@ English, Hindi, Tamil, Telugu, Kannada, Malayalam, Bengali, Marathi, Gujarati, P
 
 **CodeAlpha AI Internship**
 - 🔗 Live App: https://codealphalanguagetranslator-4izttzry2fnid6yyvfd6bq.streamlit.app/
-- 💻 GitHub: [CodeAlpha_LanguageTranslationTool](https://github.com/YOUR_USERNAME/CodeAlpha_LanguageTranslation)
+- 💻 GitHub: [CodeAlpha_LanguageTranslation](https://github.com/YOUR_USERNAME/CodeAlpha_LanguageTranslation)
 
 ---
 
