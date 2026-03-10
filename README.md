@@ -40,7 +40,7 @@
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/CodeAlpha_LanguageTranslator.git
+git clone https://github.com/VarshitaGurram/CodeAlpha_LanguageTranslator.git
 cd CodeAlpha_LanguageTranslator
 ```
 
@@ -95,7 +95,7 @@ English, Hindi, Tamil, Telugu, Kannada, Malayalam, Bengali, Marathi, Gujarati, P
 
 **CodeAlpha AI Internship**
 - 🔗 Live App: https://codealphalanguagetranslator-4izttzry2fnid6yyvfd6bq.streamlit.app/
-- 💻 GitHub: [CodeAlpha_LanguageTranslator](https://github.com/YOUR_USERNAME/CodeAlpha_LanguageTranslator)
+- 💻 GitHub: [CodeAlpha_LanguageTranslator](https://github.com/VarshitaGurram/CodeAlpha_LanguageTranslator)
 
 ---
 
